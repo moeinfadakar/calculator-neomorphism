@@ -1,4 +1,4 @@
-<h2>JS calculator  🎮 </h2>
+<h2>JS calculator  🧮 </h2>
 
 <p>This calculator can perform the four basic operations using mathematical operations in JavaScript. It has both single and universal clear functions, making it useful for simple calculations.
 </p>
@@ -11,7 +11,7 @@
 
 <h3>Goals  🎯</h3>
 
-<p>Play and Fun Just for this </p>
+<p> Basic Math Operations with a Neomorphism style  </p>
 
 <h3>See Some image(s)</h3>
 <a>
